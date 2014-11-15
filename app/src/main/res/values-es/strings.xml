@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">American Option Binomial Engine</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="american_types">
+        <item>Standard Call</item>
+        <item>Standard Put</item>
+        <item>Binary Call</item>
+        <item>Binary Put</item>
+    </string-array>
+
+    <string name="spot_level_literal">Subyacente </string>
+    <string name="strike_literal">Strike</string>
+    <string name="rate_literal">Tipo</string>
+    <string name="dividend_literal">Dividendo</string>
+    <string name="maturity_literal">Tiempo</string>
+    <string name="volatility_literal">Volatilidad</string>
+    <string name="american_type_literal">Tipología</string>
+    <string name="eval_date_literal">Fecha Valor</string>
+    <string name="maturity_date_literal">Fecha Fin</string>
+    <string name="set_literal">Editar</string>
+    <string name="calculate_price_literal">Calcular Precio</string>
+    <string name="calculate_greeks_literal">Calcular Griegas</string>
+</resources>
